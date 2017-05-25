@@ -2,3 +2,12 @@
 	width: 100%;
 	height: 90vh;
 }
+
+#encontrar{
+	background-color: orange;
+	border: none;
+	border-top: 2em;
+	color: white;
+	font-size: 2rem;
+	width: 100%;
+}
